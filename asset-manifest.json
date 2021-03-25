@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/pensioners_delp/static/css/main.ae889c3e.chunk.css",
+    "main.js": "/pensioners_delp/static/js/main.ad88d8b2.chunk.js",
+    "main.js.map": "/pensioners_delp/static/js/main.ad88d8b2.chunk.js.map",
+    "runtime-main.js": "/pensioners_delp/static/js/runtime-main.bf5c67a5.js",
+    "runtime-main.js.map": "/pensioners_delp/static/js/runtime-main.bf5c67a5.js.map",
+    "static/css/2.fe5415aa.chunk.css": "/pensioners_delp/static/css/2.fe5415aa.chunk.css",
+    "static/js/2.9d4cf7af.chunk.js": "/pensioners_delp/static/js/2.9d4cf7af.chunk.js",
+    "static/js/2.9d4cf7af.chunk.js.map": "/pensioners_delp/static/js/2.9d4cf7af.chunk.js.map",
+    "static/js/3.d35db7a9.chunk.js": "/pensioners_delp/static/js/3.d35db7a9.chunk.js",
+    "static/js/3.d35db7a9.chunk.js.map": "/pensioners_delp/static/js/3.d35db7a9.chunk.js.map",
+    "index.html": "/pensioners_delp/index.html",
+    "static/css/2.fe5415aa.chunk.css.map": "/pensioners_delp/static/css/2.fe5415aa.chunk.css.map",
+    "static/css/main.ae889c3e.chunk.css.map": "/pensioners_delp/static/css/main.ae889c3e.chunk.css.map",
+    "static/js/2.9d4cf7af.chunk.js.LICENSE.txt": "/pensioners_delp/static/js/2.9d4cf7af.chunk.js.LICENSE.txt",
+    "static/media/index.less": "/pensioners_delp/static/media/index.55d8119c.less",
+    "static/media/main.fcddaff1.jpg": "/pensioners_delp/static/media/main.fcddaff1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf5c67a5.js",
+    "static/css/2.fe5415aa.chunk.css",
+    "static/js/2.9d4cf7af.chunk.js",
+    "static/css/main.ae889c3e.chunk.css",
+    "static/js/main.ad88d8b2.chunk.js"
+  ]
+}
